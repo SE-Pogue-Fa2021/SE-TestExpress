@@ -1,6 +1,5 @@
 var http = require('http');
 var url = require('url');
-var dt = require('./datetime');
 
 
 const server = http.createServer((request, response) => {
